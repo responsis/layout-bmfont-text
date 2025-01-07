@@ -22,6 +22,7 @@
     "canvas-testbed": "^1.0.3",
     "clamp": "^1.0.1",
     "img": "^1.0.0",
+    "indexof-property": "^1.1.1",
     "lerp": "^1.0.3",
     "smoothstep": "^1.0.1",
     "tape": "^3.5.0",
@@ -61,5 +62,9 @@
   "homepage": "https://github.com/Jam3/layout-bmfont-text",
   "bugs": {
     "url": "https://github.com/Jam3/layout-bmfont-text/issues"
+  },
+  "resolutions": {
+    "ndpack-image": "3.0.0",
+    "save-pixels": "2.3.6"
   }
 }
